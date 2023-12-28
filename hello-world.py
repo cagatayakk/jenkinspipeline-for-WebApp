@@ -1,1 +1,1 @@
-print('Selam Dünyali')
+print('Selam Dünyali selam dünya')
